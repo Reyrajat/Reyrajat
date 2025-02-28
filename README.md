@@ -5,6 +5,8 @@ Data Enthusiast
 ---------------
 
 *   🌍  I'm based in Himachal Pradesh, India
+*   👀 I’m interested in Data Analysis
+*   💞️ I’m looking to collaborate on full time data analyst/business analyst job roles
 *   🖥️  See my portfolio at [https://codebasics.io/portfolio/Rajat-Thapa](http://codebasics.io/portfolio/Rajat-Thapa)
 *   ✉️  You can contact me at [rajat25059@gmail.com](mailto:rajat25059@gmail.com)
 
